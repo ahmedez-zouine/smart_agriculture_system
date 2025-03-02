@@ -19,7 +19,7 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 ---
 
 ## 📸 Screenshots  
-| Accueil | Alert |
+| Home | Alert |
 | -------- | -------- |
 | <img src="Scree_01.png" width="400"/> | <img src="Scree_00.png" width="400"/> |
 <p align="center">
