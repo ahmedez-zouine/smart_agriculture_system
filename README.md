@@ -30,9 +30,9 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 ---
 
 ## 📌 Features  
-✅ visualiser les données pH
-✅ visualiser les données température
-✅ visualiser les données température soil 
+✅ visualiser les données pH <br>
+✅ visualiser les données température <br>
+✅ visualiser les données température soil <br>
 ✅ visualiser les données humidité
 
 ---
@@ -42,4 +42,3 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 1. Clone the repository  
    ```sh
    git clone git@github.com:ahmedez-zouine/smart_agriculture_system.git
-```
