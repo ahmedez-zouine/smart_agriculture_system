@@ -21,10 +21,10 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="Scree_shot.png" alt="Screenshot 1" width="600">
-  <br>
   <img src="Scree_01.png" alt="Screenshot 1" width="600">
   <img src="Scree_00.png" alt="Screenshot 2" width="600">
+  <br>
+  <img src="Sreen_shot.png" alt="Screenshot 1" width="600">
 </p>
 
 ---
