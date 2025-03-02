@@ -1,1 +1,1 @@
-![Démonstration en vidéo](App.mp4)
+![Démonstration en vidéo](App.gif)
