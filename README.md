@@ -14,6 +14,7 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 
 <p align="center">
   <img src="App.gif" alt="Démonstration en vidéo">
+  <img src="Web.gif" alt="Démonstration en vidéo">
 </p>
 
 ---
