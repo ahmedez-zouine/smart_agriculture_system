@@ -1,4 +1,4 @@
-## 🚀 Système de surveillance de la santé à distance Réalisé  
+### 🚀 Système distribué pour une‬ agriculture intelligente et traitement de‬ l'information 
 
 L’objectif principal de ce projet est de concevoir un système distribué permettant la surveillance et la gestion intelligente des‬ Conditions environnementales dans une exploitation agricole Ce‬ système offrira aux agriculteurs un outil efficace pour collecter ‭ analyser et visualiser les données provenant de différents capteurs‬ ‭ (température, humidité du sol, pH) en temps réel.‬
 
