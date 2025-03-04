@@ -1,6 +1,7 @@
-### 🚀 Système distribué pour une‬ agriculture intelligente et traitement de‬ l'information 
+### 🚀 Distributed System for Smart Agriculture and Information Processing
 
-L’objectif principal de ce projet est de concevoir un système distribué permettant la surveillance et la gestion intelligente des‬ Conditions environnementales dans une exploitation agricole Ce‬ système offrira aux agriculteurs un outil efficace pour collecter ‭ analyser et visualiser les données provenant de différents capteurs‬ ‭ (température, humidité du sol, pH) en temps réel.‬
+
+The main objective of this project is to design a distributed system that enables the monitoring and intelligent management of environmental conditions on a farm. This system will provide farmers with an effective tool to collect, analyze, and visualize data from various sensors (temperature, soil moisture, pH) in real time.
 
 
 <p align="center">
@@ -10,7 +11,7 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 
 ---
 
-## 🎥 Démonstration en Vidéo  
+## 🎥 Demo en Video  
 
 <p align="center">
   <img src="App.gif" alt="Démonstration en vidéo">
@@ -36,10 +37,10 @@ L’objectif principal de ce projet est de concevoir un système distribué perm
 ---
 
 ## 📌 Features  
-✅ visualiser les données pH <br>
-✅ visualiser les données température <br>
-✅ visualiser les données température soil <br>
-✅ visualiser les données humidité
+✅ visualiser les donnees pH <br>
+✅ visualiser les donnees température <br>
+✅ visualiser les donnees température soil <br>
+✅ visualiser les donnees humidité
 
 ---
 
