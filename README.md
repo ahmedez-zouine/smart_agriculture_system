@@ -5,7 +5,7 @@ The main objective of this project is to design a distributed system that enable
 
 
 <p align="center">
-  <img src="Top-IoT-smart-farming-solutions.png" alt="Screenshot 1" width="600">
+  <img src="./assets/Top-IoT-smart-farming-solutions.png" alt="Screenshot 1" width="600">
   <br>
 </p>
 
@@ -14,13 +14,13 @@ The main objective of this project is to design a distributed system that enable
 ## 🎥 Demo en Video  
 
 <p align="center">
-  <img src="App.gif" alt="Démonstration en vidéo">
+  <img src="./assets/App.gif" alt="Démonstration en vidéo">
   <br>
   <br>
   <br>
   <br>
   <br>
-  <img src="Web.gif" alt="Démonstration en vidéo">
+  <img src="./assets/Web.gif" alt="Démonstration en vidéo">
 </p>
 
 ---
@@ -28,10 +28,10 @@ The main objective of this project is to design a distributed system that enable
 ## 📸 Screenshots  
 | Home | Alert |
 | -------- | -------- |
-| <img src="Scree_01.png" width="400"/> | <img src="Scree_00.png" width="400"/> |
+| <img src="./assets/Scree_01.png" width="400"/> | <img src="./assets/Scree_00.png" width="400"/> |
 <p align="center">
   <br>
-  <img src="Sreen_shot.png" alt="Screenshot 1" width="800">
+  <img src="./assets/Sreen_shot.png" alt="Screenshot 1" width="800">
 </p>
 
 ---
